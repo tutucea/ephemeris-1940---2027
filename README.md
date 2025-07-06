@@ -38,7 +38,7 @@ Start=301.1871332°, End=302.2046426°, Time=19:10:22
 | 19:10:23 | 302.0008622°   | Baseline         |  
 | 19:10:22 | 301.9998488°   | **-0.0010134°**  |  
 
-## III. Determine the Longitude with Known Time and Date (Example: 2025/1/21)
+## III. Determine the Longitude with Known Time and Date (Example: 2025/1/21@ 19:10:23)
 - **Start longitude** = 301.1871332°
 - **End longitude** = 302.2046426°
 - **Target time** = 19:10:23
