@@ -16,6 +16,7 @@ The interval from start to end at midnight = 24 hours
 5)Convert decimat to H:M:S  Hours = 5
 Remaining: 0.0839937 × 60 = 5.039622 → 5 minutes
 Remaining seconds = 0.039622 × 60 = 2.37732 seconds
+5:05:02
 
 II - Determine the longitude when we know the time and date
 
