@@ -4,7 +4,7 @@
 ## I. Determine the Time with Known Longitude and Date (Example: 1948/4/9)
 - **Start longitude** = 19.05037034°
 - **End longitude** = 20.03243950°
-- **Target longitude (Ra's at birth)** = 19.258380772°
+- **Target longitude (Ra's at birth)** = 19.258380772° ( for Rave New Year you are looking for 302.000)
 
 ### Calculation Steps:
 1. **Total change** = 20.03243950 − 19.05037034 = `0.98206916°`
